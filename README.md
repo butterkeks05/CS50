@@ -1,2 +1,2 @@
 # CS50
-Problem Sets
+Lab & Problem Sets
